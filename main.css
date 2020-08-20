@@ -1,0 +1,39 @@
+.header {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.header > h3, h5 {
+    margin: 0;
+    padding-top: 20px;
+    text-align: center;
+}
+
+/* Include any custom CSS styling here! */
+
+.ui-slider .ui-slider-range {
+    background: rgb(240,249,190);
+}
+
+.tooltip {
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+}
+
+.nodeName {
+    font-size: 10px;
+}
+
+.options {
+    margin-left: 175px;
+    margin-top: 10px;
+}
+
+#minWins {
+    width: 40px;
+}
+
+.writtenQuestions {
+    margin-left: 50px;
+    margin-right: 30px;
+}
